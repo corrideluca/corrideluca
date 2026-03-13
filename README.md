@@ -43,19 +43,9 @@ const corrado = {
 
 <div align="center">
 
-| | Project | Description |
-|---|---------|-------------|
-| 🌐 | [**corradodeluca.com**](https://github.com/corrideluca/corradodeluca.com) | My portfolio website |
-| 🤖 | [**Ai-App-generator**](https://github.com/corrideluca/Ai-App-generator) | AI app that modifies itself via chat |
-| 🔬 | [**rope-simulation**](https://github.com/corrideluca/rope-simulation) | Physics rope simulation with Fourier analysis |
-| 🛒 | [**distortion**](https://github.com/corrideluca/distortion) | E-commerce for Distortion Wear |
-| 📱 | [**SmartAssistantRN**](https://github.com/sowe-tech/SmartAssistantRN) | React Native chatbot library |
-
-</div>
+**Check out my work at [corradodeluca.com](https://corradodeluca.com)**
 
 <br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
