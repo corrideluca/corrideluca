@@ -43,14 +43,6 @@ const corrado = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=corrideluca&theme=tokyonight&hide_border=true)](https://github.com/corrideluca)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 | | Project | Description |
 |---|---------|-------------|
 | 🌐 | [**corradodeluca.com**](https://github.com/corrideluca/corradodeluca.com) | My portfolio website |
