@@ -5,7 +5,7 @@
 ### Full Stack Developer | Physics Student | Founder at [SOWE](https://github.com/corrideluca)
 
 <a href="https://corradodeluca.com"><img src="https://img.shields.io/badge/Portfolio-corradodeluca.com-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/corrideluca"><img src="https://img.shields.io/badge/LinkedIn-corrideluca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/corrado-de-luca-a801a6187"><img src="https://img.shields.io/badge/LinkedIn-Corrado_De_Luca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:corrideluca@gmail.com"><img src="https://img.shields.io/badge/Email-corrideluca@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/corrideluca"><img src="https://img.shields.io/badge/Telegram-@corrideluca-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
@@ -36,6 +36,7 @@
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 #### Backend & Database
@@ -57,8 +58,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=corrideluca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corrideluca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=corrideluca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=corrideluca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=corrideluca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corrideluca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
 
 <br/>
 
@@ -76,7 +83,7 @@
 | [Ai-App-generator](https://github.com/corrideluca/Ai-App-generator) | AI-powered app that modifies itself via chat | TypeScript |
 | [rope-simulation](https://github.com/corrideluca/rope-simulation) | Physics rope oscillation simulation with Fourier analysis | Python |
 | [distortion](https://github.com/corrideluca/distortion) | E-commerce platform for Distortion Wear | Next.js, Prisma, PostgreSQL |
-| [seminario-chatbot](https://github.com/corrideluca/seminario-chatbot) | Chatbot project | TypeScript |
+| [SmartAssistantRN](https://github.com/sowe-tech/SmartAssistantRN) | React Native chatbot assistant library | TypeScript |
 | [trading-charts-stocks](https://github.com/corrideluca/trading-charts-stocks) | Stock trading charts visualization | TypeScript |
 
 ---
