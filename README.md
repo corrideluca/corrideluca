@@ -12,6 +12,22 @@
 
 <br/>
 
+## Featured project: [UIVOID CLI](https://github.com/corrideluca/uivoid-cli)
+
+[![npm](https://img.shields.io/npm/v/uivoid?style=flat-square&logo=npm)](https://www.npmjs.com/package/uivoid)
+[![GitHub stars](https://img.shields.io/github/stars/corrideluca/uivoid-cli?style=flat-square&logo=github)](https://github.com/corrideluca/uivoid-cli/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/corrideluca/uivoid-cli/blob/main/LICENSE)
+
+Turn an existing API into a scoped, organization-owned **remote MCP server**. UIVOID CLI discovers OpenAPI operations, lets you review tool permissions, and produces an MCP URL that works with Codex, Claude, and other MCP-compatible clients.
+
+```bash
+npx uivoid create my-app
+```
+
+**[Explore the repository →](https://github.com/corrideluca/uivoid-cli)**
+
+<br/>
+
 ```typescript
 const corrado = {
     location: "Buenos Aires, Argentina",
